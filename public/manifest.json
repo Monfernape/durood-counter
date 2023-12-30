@@ -1,0 +1,31 @@
+{
+  "name": "Durood Counter",
+  "short_name": "DC",
+  "theme_color": "#020203",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/assets/logo-144x144.jpg",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/assets/logo-512x512.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+     "src": "/assets/logo-512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "Wonder Widgets"
+    }
+]
+}
